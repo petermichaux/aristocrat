@@ -4,6 +4,17 @@ Aristocrat
 Discerning members of high society choose the Aristocrat JavaScript library to manipulate their class attributes.
 
 
+Examples
+========
+
+```javascript
+aristocrat.addClass(document.body, 'king');
+aristocrat.removeClass(document.body, 'king');
+aristocrat.toggleClass(document.body, 'king');
+aristocrat.hasClass(document.body, 'king');
+```
+
+
 Status
 ------
 
