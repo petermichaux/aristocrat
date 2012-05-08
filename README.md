@@ -18,7 +18,13 @@ aristocrat.hasClass(document.body, 'king');
 Status
 ------
 
-The code is ready. Still needs documentation and tests.
+The code is ready. Still needs documentation.
+
+
+Browser Support
+---------------
+
+Tested working in IE6 and newer browsers by a variety of manufacturers.
 
 
 Dependencies
