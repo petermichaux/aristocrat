@@ -14,6 +14,11 @@ aristocrat.toggleClass(document.body, 'king');
 aristocrat.hasClass(document.body, 'king');
 ```
 
+Releases
+--------
+
+See the releases directory for production ready builds.
+
 
 Status
 ------
