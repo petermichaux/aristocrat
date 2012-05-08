@@ -100,6 +100,13 @@
             assert.same('queen', cleanup(el.className));
         },
 
+        "test removeClass does not to an element that has a className that contains the provided className": function() {
+            var el = document.createElement('div');
+            el.className = 'king';
+            aristocrat.removeClass(el, 'ki');
+            assert.same('king', cleanup(el.className));
+        },
+
         "test toggleClass does to an element that has the className": function() {
             var el = document.createElement('div');
             el.className = 'king queen';
