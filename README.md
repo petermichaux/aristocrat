@@ -17,7 +17,7 @@ aristocrat.hasClass(document.body, 'king');
 Releases
 --------
 
-See the releases directory for production ready builds.
+See http://peter.michaux.ca/downloads/aristocrat/ for production ready builds.
 
 
 Status
