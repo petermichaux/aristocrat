@@ -14,8 +14,8 @@ aristocrat.toggleClass(document.body, 'king');
 aristocrat.hasClass(document.body, 'king');
 ```
 
-Releases
---------
+Downloads
+---------
 
 See http://peter.michaux.ca/downloads/aristocrat/ for production ready builds.
 
