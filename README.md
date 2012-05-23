@@ -5,7 +5,7 @@ Discerning members of high society choose the Aristocrat JavaScript library to m
 
 
 Examples
-========
+--------
 
 ```javascript
 aristocrat.addClass(document.body, 'king');
