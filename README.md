@@ -38,6 +38,12 @@ Dependencies
 None.
 
 
+Source Code
+-----------
+
+GitHub: https://github.com/petermichaux/aristocrat
+
+
 Build
 -----
 
