@@ -1,5 +1,5 @@
 /*
-Aristocrat version 1
+Aristocrat version 2
 Copyright (c) 2012, Peter Michaux
 All rights reserved.
 Licensed under the Simplified BSD License.
