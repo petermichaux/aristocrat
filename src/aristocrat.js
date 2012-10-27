@@ -1,4 +1,4 @@
-var aristocrat = aristocrat || {};
+var aristocrat = {};
 
 (function() {
 
