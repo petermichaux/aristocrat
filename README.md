@@ -60,3 +60,12 @@ Tests
 -----
 
 To run the automated tests, open tst/runner.html in a web browser.
+
+
+Author
+------
+
+Peter Michaux<br>
+petermichaux@gmail.com<br>
+http://peter.michaux.ca/<br>
+[@petermichaux](https://twitter.com/petermichaux)
