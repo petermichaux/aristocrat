@@ -19,8 +19,6 @@ Downloads
 
 See http://peter.michaux.ca/downloads/aristocrat/ for production ready builds.
 
-Install via Bower with `bower install aristocrat`
-
 
 Status
 ------
